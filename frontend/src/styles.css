@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files /.*/
+.bg-dark{
+    background-color:#212529;
+}
+.light-font{
+    color: #f8f9fa !important;
+}
+.gradient{
+    background: -webkit-linear-gradient(left, #1e1c35, #9ba2a3);
+  
+}
